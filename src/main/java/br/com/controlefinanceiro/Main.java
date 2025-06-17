@@ -26,7 +26,7 @@ public class Main implements CommandLineRunner {
 
         int opcao;
         do {
-            System.out.println("\nEscolha uma opção:");
+            System.out.println("\n Escolha uma opção:");
             System.out.println("1 - Verificar dados da tabela");
             System.out.println("2 - Adicionar nova conta");
             System.out.println("3 - Alterar conta existente");
